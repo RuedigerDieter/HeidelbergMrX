@@ -1,36 +1,42 @@
 # HeidelbergMrX
 Mr. X im Heidelberger ÖPNV
 
-## Kontext
-
 ## Idee:
-Ein Team wird von (einem) anderen gejagt. Statt dass die Teams einander regelmäßig ihre Position melden, tracken sich die Teams gegenseitig mit Airtags. Diese melden die ihre Position erfahrungsgemäß alle 5-10 Minuten, je nachdem, wie viele Menschen um einen herum sind.
+Ein Team wird von (einem) anderen gejagt. Statt dass die Teams einander regelmäßig ihre Position melden, tracken sich die Teams gegenseitig mit Airtags. Diese melden die ihre Position erfahrungsgemäß alle 5-10 Minuten, je nachdem, wie viele Menschen um einen herum sind. 
 
-## Spielziel:
+Das gejagte Mr. X-Team muss dabei 5+1 Checkpoints innerhalb von 120 Minuten abarbeiten, um zu gewinnen. Die Suchteams gewinnen, wenn sie vor Ablauf der Zeit das Mr. X-Team **fangen**.
 
 ## Materialien:
-### Für jedes Team:
-* mind. ein Airtag und ein I-Phone, das dieses Airtag tracken kann.
+* zwei Airtags pro Person
+### pro Team
+* mind. 1 iPhone, das Airtags tracken kann
 * eine Übersicht der **Checkpoints**
 * eine Liste aller nutzbaren Linien zum abhaken (s. **Fortbewegung**).
 * einen Liniennetzplan Stadttarif Heidelberg, z.B. https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_HD_regulaer.pdf
-* (eine Powerbank [ask me how I know])
-### Für das Mr. X-Team
-* ein Airtag pro Suchteam und ein I-Phone, das diese Airtags tracken kann.
-* einen Liniennetzplan
+* D-Ticket, VRN-Tagesticket o.ä.
+* (Wasser)
+* (eine Powerbank _ask me how I know_)
+
 ## Regeln:
 ### Teamaufbau
+Jedes Team sollte aus mindestens zwei Personen bestehen, von denen eine Person ein iPhone mitträgt. Eine Teamgröße von vier Personen ist dabei eher unpraktisch, weshalb ab fünf Teammitgliedern die Teams aufgeteilt werden sollten.
 
 ### AirTags
 Jedes Suchteam trägt ein Airtag mit sich, dass auf das Handy/die Apple-ID vom Mr. X gepairt ist. Das Mr. X-Team weiß also (fast) immer, wo sich alle Suchteams aufhalten.
 ![Airtagsrelationship](https://github.com/RuedigerDieter/HeidelbergMrX/assets/20403365/502ba54f-1c05-4d84-9ac6-cdbc92aa4db2)
+(nicht Darkmode-kompatibel)
 
 Außerdem trägt das Mr. X-Team (am besten untereinander verteilt) ein Airtag von jedem Suchteam mit, sodass jedes Suchteam (fast) immer weiß, wo Mr. X ist.
 
+Die iPhone-Besitzer dürfen dabei ggf. Position und/oder Internet ausschalten, um nicht beim Selber-Tracken zu helfen.
 ### Checkpoints
+Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach nach Karlsruhe fliehen können gibt es Checkpoints, an denen Aktionen durchgeführt werden müssen. Das können z.B. die Folgenden sein:
+
+0. Start am Bismarckplatz
+1. 
 
 ### Fangen und Gefangen werden
-Damit das Mr. X-Team gefangen ist und damit das Spiel vorbei ist
+Damit das Mr. X-Team gefangen ist und damit das Spiel vorbei ist, muss mindestens ein Suchteam direkten Kontakt mit diesem gehabt haben. Dies geschieht entweder durch Körperkontakt (=wie beim Fangen im Kindergarten) oder durch ein direktes Foto aus kurzer Entfernung, maximal 5 m. Fotos, die durch Fenster gemacht wurden, oder auf denen das Mr. X-Team nicht eindeutig erkennbar ist, zählen nicht.  
 
 ### Fortbewegung
 
