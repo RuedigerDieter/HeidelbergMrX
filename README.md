@@ -4,7 +4,7 @@ Mr. X im Heidelberger ÖPNV
 ## Idee:
 Ein Team wird von (einem) anderen gejagt. Statt dass die Teams einander regelmäßig ihre Position melden, tracken sich die Teams gegenseitig mit Airtags. Diese melden die ihre Position erfahrungsgemäß alle 5-10 Minuten, je nachdem, wie viele Menschen um einen herum sind. 
 
-Das gejagte Mr. X-Team muss dabei 5+1 Checkpoints innerhalb von 120 Minuten abarbeiten, um zu gewinnen. Die Suchteams gewinnen, wenn sie vor Ablauf der Zeit das Mr. X-Team **fangen**.
+Das gejagte Mr. X-Team muss dabei 5+1 Checkpoints innerhalb von 120+15 Minuten abarbeiten, um zu gewinnen. Die Suchteams gewinnen, wenn sie vor Ablauf der Zeit das Mr. X-Team **fangen**.
 
 ## Materialien pro Team:
 * zwei Airtags pro Person
@@ -18,10 +18,10 @@ Das gejagte Mr. X-Team muss dabei 5+1 Checkpoints innerhalb von 120 Minuten abar
 
 ## Regeln:
 ### Teamaufbau
-Jedes Team sollte aus mindestens zwei Personen bestehen, von denen eine Person ein iPhone mitträgt. Eine Teamgröße von vier Personen ist dabei eher unpraktisch, weshalb ab fünf Teammitgliedern die Teams aufgeteilt werden sollten.
+Jedes Team sollte aus mindestens zwei Personen bestehen, von denen jeweils eine Person ein iPhone mitträgt. Eine Teamgröße von vier Personen ist dabei eher unpraktisch, weshalb ab fünf Teammitgliedern die Teams aufgeteilt werden sollten.
 
 ### AirTags
-Jedes Suchteam trägt ein Airtag mit sich, dass auf das Handy/die Apple-ID vom Mr. X gepairt ist. Das Mr. X-Team weiß also (fast) immer, wo sich alle Suchteams aufhalten.
+Jedes Suchteam trägt ein Airtag mit sich, dass auf das Handy/die Apple-ID von Mr. X gepairt ist. Das Mr. X-Team weiß also (fast) immer, wo sich alle Suchteams aufhalten.
 ![Airtagsrelationship](https://github.com/RuedigerDieter/HeidelbergMrX/assets/20403365/502ba54f-1c05-4d84-9ac6-cdbc92aa4db2)
 (nicht Darkmode-kompatibel)
 
@@ -31,7 +31,7 @@ Die iPhone-Besitzer dürfen dabei ggf. Position und/oder Internet ausschalten, u
 ### Checkpoints
 Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach nach Karlsruhe fliehen können gibt es Checkpoints, an denen Aktionen durchgeführt werden müssen. Das können z.B. die Folgenden sein:
 
-0. Start am Bismarckplatz
+0. Start am Bismarckplatz, 15 min Vorsprung für Mr. X
 1. Alte Brücke: Team-Selfie vor der Staustufe machen
 2. Bahnstadt-Calisthenics-Anlage: Jedes Teammitglied macht einen Klimmzug
 3. KFG Heidelberg/Neckarstaden: Den Blick auf Neuenheim genießen
