@@ -32,7 +32,12 @@ Die iPhone-Besitzer dürfen dabei ggf. Position und/oder Internet ausschalten, u
 Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach nach Karlsruhe fliehen können gibt es Checkpoints, an denen Aktionen durchgeführt werden müssen. Das können z.B. die Folgenden sein:
 
 0. Start am Bismarckplatz
-1. 
+1. Alte Brücke: Team-Selfie vor der Staustufe machen
+2. Bahnstadt-Calisthenics-Anlage: Jedes Teammitglied macht einen Klimmzug
+3. KFG Heidelberg/Neckarstaden: Den Blick auf Neuenheim genießen
+4. Mathematikon: Getränke (für alle) kaufen
+5. Schloss: Panoramafoto der Altstadt machen
+6. Ende am Bismarckplatz
 
 ### Fangen und Gefangen werden
 Damit das Mr. X-Team gefangen ist und damit das Spiel vorbei ist, muss mindestens ein Suchteam direkten Kontakt mit diesem gehabt haben. Dies geschieht entweder durch Körperkontakt (=wie beim Fangen im Kindergarten) oder durch ein direktes Foto aus kurzer Entfernung, maximal 5 m. Fotos, die durch Fenster gemacht wurden, oder auf denen das Mr. X-Team nicht eindeutig erkennbar ist, zählen nicht.  
