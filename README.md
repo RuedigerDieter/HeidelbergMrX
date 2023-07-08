@@ -7,7 +7,7 @@ Ein Team wird von (einem) anderen gejagt. Statt dass die Teams einander regelmä
 Das gejagte Mr. X-Team muss dabei 5+1 Checkpoints innerhalb von 120+15 Minuten abarbeiten, um zu gewinnen. Die Suchteams gewinnen, wenn sie vor Ablauf der Zeit das Mr. X-Team **fangen**.
 
 ## Materialien pro Team:
-* zwei Airtags pro Person
+* zwei Airtags pro Person -> Mit iOS 17 kann auch ein Airtag auf mehrere Apple-IDs gepairt werden; also nur ein Airtag pro Team.
 * mind. 1 iPhone, das Airtags tracken kann
 * eine Übersicht der **Checkpoints**
 * eine Liste aller nutzbaren Linien zum abhaken (s. **Fortbewegung**).
