@@ -31,6 +31,8 @@ Die iPhone-Besitzer dürfen dabei ggf. Position und/oder Internet ausschalten, u
 ### Checkpoints
 Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach nach Karlsruhe fliehen können gibt es Checkpoints, an denen Aktionen durchgeführt werden müssen. Das können z.B. die Folgenden sein:
 
+#### Checkpoints Version 1.0 
+
 0. Start am Bismarckplatz, 15 min Vorsprung für Mr. X
 1. Alte Brücke: Team-Selfie vor der Staustufe machen
 2. Bahnstadt-Calisthenics-Anlage: Jedes Teammitglied macht einen Klimmzug
@@ -38,6 +40,18 @@ Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach
 4. Mathematikon: Getränke (für alle) kaufen
 5. Schloss: Panoramafoto der Altstadt machen
 6. Ende am Bismarckplatz
+
+#### Checkpoints (Version 2.0)
+
+0. Start am Bismarckplatz, 15 min Vorsprung für Mr. X
+* Besucht einen Schulhof
+* Kauft im Mathematikon was zu trinken (für die Suchteams :) )
+* Besucht eine der drei Haupt-Uni-Bibliotheken (Altstadt, Bergheim, INF)
+* Geh hoch aufs Schloss
+* Jedes Teammitglied macht einen Klimmzug in der Calisthenics-Anlage in der Bahnstadt
+* Geht/Fahrt durch 8 Stadtteile HDs durch
+* Black Ticket: Fahrt Fähre, S-Bahn und/oder Bergbahn
+n. Ende am Bismarckplatz nach 135 min.
 
 ### Fangen und Gefangen werden
 Damit das Mr. X-Team gefangen ist und damit das Spiel vorbei ist, muss mindestens ein Suchteam direkten Kontakt mit diesem gehabt haben. Dies geschieht entweder durch Körperkontakt (=wie beim Fangen im Kindergarten) oder durch ein direktes Foto aus kurzer Entfernung, maximal 5 m. Fotos, die durch Fenster gemacht wurden, oder auf denen das Mr. X-Team nicht eindeutig erkennbar ist, zählen nicht.  
@@ -54,4 +68,7 @@ _Nicht_ erlaubt wäre z.B., wenn sich ein Team so bewegt:
 
 _Nicht_ erlaubt wäre diese Abfolge, weil die Tram 5 doppelt benutzt wird. Die Richtung spielt dabei keine Rolle.
 
-Dabei bietet es sich an, sich nur im Stadttarif Heidelberg zu bewegen; ob es prinzipiell, ihn zu verlassen, sollte vorher geklärt werden. 
+#### Joker (Version 2.0)
+Die Mr. X-Teams haben insgesamt einen Joker, mit dem sie _eine_ Bahnlinie doppelt benutzen dürfen. Um ihn einzusetzen muss das Mr. X-Team bei den Suchern anmelden, an welcher Haltestelle sie in welche Linie einsteigen.
+
+Dabei bietet es sich an, sich nur im Stadttarif Heidelberg zu bewegen; ob es prinzipiell erlaubt ist, ihn zu verlassen, sollte vorher geklärt werden. 
