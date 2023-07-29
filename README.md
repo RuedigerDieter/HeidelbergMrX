@@ -41,17 +41,19 @@ Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach
 5. Schloss: Panoramafoto der Altstadt machen
 6. Ende am Bismarckplatz
 
-#### Checkpoints (Version 2.0)
+#### Tasks (Version 2.0)
+
+Von den 7 Tasks müssen die Mr.X-Teams 5 machen.
 
 0. Start am Bismarckplatz, 15 min Vorsprung für Mr. X
    
-* Besucht einen Schulhof
-* Kauft im Mathematikon was zu trinken (für die Suchteams :) )
-* Besucht eine der drei Haupt-Uni-Bibliotheken (Altstadt, Bergheim, INF)
-* Geh hoch aufs Schloss
-* Jedes Teammitglied macht einen Klimmzug in der Calisthenics-Anlage in der Bahnstadt
-* Geht/Fahrt durch 8 Stadtteile HDs durch
-* Black Ticket: Fahrt Fähre, S-Bahn und/oder Bergbahn
+* Besucht einen Schulhof!
+* Kauft im Mathematikon was zu trinken (für die Suchteams :) )!
+* Besucht eine der drei Haupt-Uni-Bibliotheken (Altstadt, Bergheim, INF)!
+* Geht hoch aufs Schloss!
+* Macht alle jeweils einen Klimmzug in der Calisthenics-Anlage in der Bahnstadt!
+* Geht/Fahrt durch 8 Stadtteile HDs durch!
+* Black Ticket: Fahrt Fähre, S-Bahn und/oder Bergbahn!
   
 n. Ende am Bismarckplatz nach 135 min.
 
