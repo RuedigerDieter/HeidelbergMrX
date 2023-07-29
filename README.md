@@ -31,7 +31,7 @@ Die iPhone-Besitzer dürfen dabei ggf. Position und/oder Internet ausschalten, u
 ### Checkpoints
 Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach nach Karlsruhe fliehen können gibt es Checkpoints, an denen Aktionen durchgeführt werden müssen. Das können z.B. die Folgenden sein:
 
-#### Checkpoints Version 1.0 
+#### Checkpoints
 
 0. Start am Bismarckplatz, 15 min Vorsprung für Mr. X
 1. Alte Brücke: Team-Selfie vor der Staustufe machen
