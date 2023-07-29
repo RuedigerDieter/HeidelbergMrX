@@ -44,6 +44,7 @@ Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach
 #### Checkpoints (Version 2.0)
 
 0. Start am Bismarckplatz, 15 min Vorsprung für Mr. X
+   
 * Besucht einen Schulhof
 * Kauft im Mathematikon was zu trinken (für die Suchteams :) )
 * Besucht eine der drei Haupt-Uni-Bibliotheken (Altstadt, Bergheim, INF)
@@ -51,6 +52,7 @@ Damit es garantierte Aufenthalte für das Mr. X-Team gibt, und sie nicht einfach
 * Jedes Teammitglied macht einen Klimmzug in der Calisthenics-Anlage in der Bahnstadt
 * Geht/Fahrt durch 8 Stadtteile HDs durch
 * Black Ticket: Fahrt Fähre, S-Bahn und/oder Bergbahn
+  
 n. Ende am Bismarckplatz nach 135 min.
 
 ### Fangen und Gefangen werden
