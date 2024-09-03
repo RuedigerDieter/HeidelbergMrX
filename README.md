@@ -72,6 +72,13 @@ _Nicht_ erlaubt wäre z.B., wenn sich ein Team so bewegt:
 
 _Nicht_ erlaubt wäre diese Abfolge, weil die Tram 5 doppelt benutzt wird. Die Richtung spielt dabei keine Rolle.
 
+Außerdem zählt es als doppelte Nutzung, in einer Linie in der Wende sitzen zu bleiben, also z.B. 26 Kirchheim Friedhof -> 26 Heiligenbergschule.
+Bei Linienwechsel zählt die Nutzung der Linie solange sie in ihrem fahrplanmäßigen Verlauf sind. Wechselt die Linie ihre Nummer, zählt die Nutzung beim verlassen des ursprünglichen Verlaufs als neu:
+
+21 HD Hauptbahnhof (wird am Seegarten zur 5) zählt also erst ab Ochsenkopf als 5.
+
+26 Heiligenbergschule -> 24 Rohrbach Süd zählt ab Technologiepark als 24.
+
 #### Joker (Version 2.0)
 Die Mr. X-Teams haben insgesamt einen Joker, mit dem sie _eine_ Bahnlinie doppelt benutzen dürfen. Um ihn einzusetzen muss das Mr. X-Team bei den Suchern anmelden, an welcher Haltestelle sie in welche Linie einsteigen.
 
